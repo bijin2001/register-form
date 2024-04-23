@@ -1,0 +1,33 @@
+.input{
+
+    width: 64em;
+    background-color: #eae9e9;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: #2d3092;
+}
+
+@media (max-width:1229px){
+
+    .input{
+        width: 32em;
+    }
+}
+
+@media (max-width:550px){
+
+    .input{
+        width: 22em;
+    }
+}
+
+
+.input1{
+
+    background-color: #eae9e9;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: #2d3092;
+}
